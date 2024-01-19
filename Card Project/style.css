@@ -133,7 +133,7 @@ main {
     top: -0.25em;
     left: -0.5em;
 }
-.card p::after {
+.card p::before {
     content: close-quote;
     font-size: 3em;
     position: absolute;
